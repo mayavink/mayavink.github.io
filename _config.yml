@@ -31,6 +31,13 @@ socials:
   Facebook:
   Slack:
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-timeago
+  - jekyll-last-modified-at
+
 # build settings
 markdown: kramdown
 permalink: /:title/
