@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+			{% if page.description %}<p>{{ page.description }}</p>{% endif %}
+		</header>
+
+		<div class="portfolio-grid">
+			{% assign items = site.pages | where: "portfolio_item", true | sort: "title" %}
+			{% for item in items %}
+			<article class="portfolio-card">
+				<a class="image" href="{{ item.url | relative_url }}">
+					<img src="{{ item.image | relative_url }}" alt="{{ item.title }}" />
+				</a>
+				<div class="portfolio-card-body">
+					<h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+					<p>{{ item.portfolio_description }}</p>
+					<ul class="actions">
+						<li><a class="button primary small" href="{{ item.url | relative_url }}">View slideshow</a></li>
+					</ul>
+				</div>
+			</article>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
