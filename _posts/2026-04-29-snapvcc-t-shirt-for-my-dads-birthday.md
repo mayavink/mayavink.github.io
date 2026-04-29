@@ -2,7 +2,7 @@
 layout: post
 title: "snapVCC T-shirt for my dad's birthday"
 description: "A quick update about the custom snapVCC T-shirt gift project."
-image: assets/images/pic01.jpg
+image: images/2026/snapvcc-shirt.jpg
 ---
 
 For my fathers birthday, I have always made him a drawing or a piece of art. I always made him drawings and artworks that he cannot make use of. I decided to make this artwork into something that he can use - A SHIRT. At first I wasnt sure what kind of gift I should make him, but I knew it should involve somehting that is special to him. 
