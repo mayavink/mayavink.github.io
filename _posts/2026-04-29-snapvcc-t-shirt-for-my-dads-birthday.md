@@ -9,7 +9,7 @@ For my fathers birthday, I have always made him a drawing or a piece of art. I a
 
 My dad used to have a consulting firm, and they uswed to design and make hardware and well, consult.I went ahead and asked him what the first circuit his firm made was. It was the snap VCC (figure below)
 
-![snapVcc](images/2026/snapVCC.png)
+![snapVcc](/images/2026/snapVCC.png)
 
 After a bit more brainstorming of what I could do with this information, I got an idea!! - use your art to make a shirt!!I researched to find the snap VCC modle that my dads firm - electronut labs - had made, and I drew the snap VCC online using a software you can find on your tablet called Procreate
 
