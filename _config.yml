@@ -33,6 +33,7 @@ socials:
 
 # build settings
 markdown: kramdown
+permalink: /:title/
 
 sass:
   style: compressed
