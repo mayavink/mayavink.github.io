@@ -1,8 +1,8 @@
 # site settings
 title: Mayavi's Blog
-subtitle: Design and Art
+subtitle: Art &#8226; Design &#8226; Engineering
 email: maya.mahesh2020@gmail.com
-description: Design and Art
+description: Art, Design, and Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mayavink.com" # the base hostname & protocol for your site
 author:
