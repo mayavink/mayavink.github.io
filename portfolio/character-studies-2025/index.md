@@ -3,6 +3,7 @@ layout: portfolio-item
 title: "Character Studies 2025"
 description: "A series of character sketches exploring expression, posture, and personality."
 image: images/portfolio/character-study-01.jpg
+social_image: images/portfolio/character-studies-share.jpg
 show_tile: false
 portfolio_item: true
 portfolio_description: "Character explorations from 2025, focusing on gesture, line, and storytelling."

@@ -2,6 +2,23 @@
 	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	{% assign meta_description = page.description | default: site.description %}
+	{% assign meta_image = page.social_image | default: page.image %}
+	{% assign meta_title = page.title | default: site.title %}
+	<meta name="description" content="{{ meta_description | strip_html | strip_newlines | escape }}" />
+	<meta property="og:title" content="{{ meta_title | escape }}" />
+	<meta property="og:description" content="{{ meta_description | strip_html | strip_newlines | escape }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ page.url | absolute_url }}" />
+	{% if meta_image %}
+	<meta property="og:image" content="{{ meta_image | absolute_url }}" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="{{ meta_image | absolute_url }}" />
+	{% endif %}
+	<meta name="twitter:title" content="{{ meta_title | escape }}" />
+	<meta name="twitter:description" content="{{ meta_description | strip_html | strip_newlines | escape }}" />
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
