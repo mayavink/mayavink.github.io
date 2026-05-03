@@ -8,8 +8,6 @@ author: null
 show_tile: false
 ---
 
-# Portfolio
-
 Welcome to my portfolio. Below are highlighted collections of work from 2025 — each page includes a slideshow of sketches and finished studies.
 
 <div class="portfolio-grid">
