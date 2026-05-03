@@ -17,12 +17,21 @@
 
 .portfolio-card a.image {
 	display: block;
+	overflow: hidden;
+	aspect-ratio: 4 / 5;
 }
 
 .portfolio-card img {
 	width: 100%;
-	height: auto;
+	height: 100%;
 	display: block;
+	object-fit: cover;
+	object-position: center center;
+	transition: transform 0.3s ease;
+}
+
+.portfolio-card a.image:hover img {
+	transform: scale(1.03);
 }
 
 .portfolio-card-body {
