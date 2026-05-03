@@ -3,6 +3,7 @@ layout: portfolio-item
 title: "Japan 2025 Diary"
 description: "Sketches and studies from a trip to Japan in 2025."
 image: images/portfolio/japan-2025-cover.jpg
+social_image: images/portfolio/japan-2025-share.jpg
 show_tile: false
 portfolio_item: true
 portfolio_description: "A travel sketchbook diary from Japan — street scenes, temples, food, and fleeting moments captured in ink and watercolour."
