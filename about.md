@@ -6,6 +6,7 @@ description: About me
 image: null
 author: null
 show_tile: false
+show_contact: true
 ---
 
 I've always had a passion for art. My initial inspiration to start creating art was my brother. I also learnt more about art because of my parents, since they are also very artistic people. I love exploring different media and styles of art.
