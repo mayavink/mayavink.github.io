@@ -3,13 +3,13 @@ layout: post
 title: "Guitar painting with Gouache"
 description: "Guitar painting with Gouache."
 image: images/2026/guitargouache.jpeg
----
+----+
 
-![guitargouache](images/2026/guitargouache.jpeg)
+![guitargouache](/images/2026/guitargouache.jpeg)
 
-My brother made 4 electric guitars in collaberation with his friend Jenny last year. He made one for me, he kept one for himself , oen was for the university and the other for his friend Jenny.
+My brother made four electric guitars in collaboration with his friend Jenny last year. One for me, one for himself, one for the university and one for his friend, Jenny.
 
-When he got the guitar home, I was inspired by how well he pulled of making the guitar. It played really well and  felt just like a real electric guitar. I have wanted to learnt he elctric guitatr for a long time but I didnt have one. This guitar is perferct to learn basics and my favorite songs .
+When he got the guitar home, I was inspired by how well he made the guitar. The guitar played really well and  felt just like a real electric guitar. I have wanted to learn the elctric guitar for a long time but I didnt have one. This guitar is perferct to learn the basics and my favorite songs .
 
 My brother has imspried me to do many things, like to love art and to start learning to play the guitar. During our trip to Japan, he bought an acrylic gouache paint set. I hadnt heard of it before he had got it, but it looked very interesting. He started using it and sent us pictures of the paintings her would make wiht it . The paintings looked great, and he seemed to really like his acrylic gouache set too. Seeing this I too wanted to try using acrylic gouache to paint.
 
