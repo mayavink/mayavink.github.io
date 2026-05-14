@@ -5,7 +5,7 @@ description: "Guitar painting with Gouache."
 image: images/2026/snapvcc-shirt.jpg
 ---
 
-*image of da thing*
+![guitar gouache](images/2026/guitar gouache.jpeg)
 
 My brother made 4 electric guitars in collaberation with his friend Jenny last year. He made one for me, he kept one for himself , oen was for the university and the other for his friend Jenny.
 
@@ -17,7 +17,10 @@ This thought had slipped my mind, that is until this summer my brother came back
 
 I wanted my first acrylic gouache painting to be somehting personal to me, and as I was scrolling throguh pciture references , I founs this cool picture of the guitar my brother made. It was the perfect picture for my first acrylic gouache painting since there was only one subject and a lot of details that i can learn to paint. 
 
-*image will be inserted soon - of the refernce image*
+![fourguitars](images/2026/fourguitars.jpg)
+
+Here is the picture of the guitar that I drew.
+![guitar](images/2026/guitar.webp)
 
 After watching a few videos and learning a bit more about this type of paint, I started my painting. 
 
@@ -25,7 +28,7 @@ Turns out this paint is very different from the acrylic, For starters, The textu
 
 I really loved my expereacn of painting with acrylic gouache , and I am happy witht he way the painting turned out. 
 
-This was a great chance for me to try out a new medium fo art, and this type of paint was defintalety worhyt tryoing out. 
+This was a great chance for me to try out a new medium fo art, and this type of paint was defintalety worhyt trying out. 
 
 
 
