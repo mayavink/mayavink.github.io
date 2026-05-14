@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Guitar painting with Gouache"
+title: "Guitar Painting with Gouache"
 description: "Guitar painting with Gouache."
 image: images/2026/guitargouache.jpeg
-----+
-
-![guitargouache](/images/2026/guitargouache.jpeg)
+---
 
 My brother made four electric guitars in collaboration with his friend Jenny last year. One for me, one for himself, one for the university and one for his friend, Jenny.
 
@@ -20,6 +18,7 @@ I wanted my first acrylic gouache painting to be somehting personal to me, and a
 ![fourguitars](/images/2026/fourguitars.jpg)
 
 Here is the picture of the guitar that I drew.
+
 ![guitar](/images/2026/guitar.webp)
 
 After watching a few videos and learning a bit more about this type of paint, I started my painting. 
