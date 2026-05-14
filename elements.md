@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Art
-image: assets/images/pic01.jpg
+image: assets/images/mural.jpg
+tile-link: /portfolio/
 nav-menu: true
 ---
 

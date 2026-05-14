@@ -8,7 +8,7 @@ author: null
 show_tile: false
 ---
 
-Welcome to my portfolio. Below are highlighted collections of work from 2025 — each page includes a slideshow of sketches and finished studies.
+Welcome to my art portfolio. Below are highlighted collections of my work. Each page includes a slideshow of sketches and studies.
 
 <div class="portfolio-grid">
   {% assign items = site.pages | where: "portfolio_item", true | sort: "title" %}
