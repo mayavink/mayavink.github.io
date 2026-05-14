@@ -23,12 +23,11 @@ Here is the picture of the guitar that I drew.
 
 After watching a few videos and learning a bit more about this type of paint, I started my painting. 
 
-Turns out this paint is very different from the acrylic, For starters, The texture itself is complitaly different. It more gooey and drys a lot faster, and you can layer it as much as you would like. 
+Turns out this paint is very different from acrylic. For starters, the texture itself is completely different. It is more gooey and dries a lot faster, and you can layer it as much as you would like.
 
-I really loved my experience of painting with acrylic gouache, and I am happy with
-the way the painting turned out. 
+I really loved my experience of painting with acrylic gouache, and I am happy with the way the painting turned out.
 
-This was a great chance for me to try out a new medium of art, and this type of paint was definately worth trying out. 
+This was a great chance for me to try out a new medium of art, and this type of paint was definitely worth trying out.
 
 
 
