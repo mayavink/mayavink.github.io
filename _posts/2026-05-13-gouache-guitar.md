@@ -17,10 +17,10 @@ This thought had slipped my mind, that is until this summer my brother came back
 
 I wanted my first acrylic gouache painting to be somehting personal to me, and as I was scrolling throguh pciture references , I founs this cool picture of the guitar my brother made. It was the perfect picture for my first acrylic gouache painting since there was only one subject and a lot of details that i can learn to paint. 
 
-![fourguitars](images/2026/fourguitars.jpg)
+![fourguitars](/images/2026/fourguitars.jpg)
 
 Here is the picture of the guitar that I drew.
-![guitar](images/2026/guitar.webp)
+![guitar](/images/2026/guitar.webp)
 
 After watching a few videos and learning a bit more about this type of paint, I started my painting. 
 
