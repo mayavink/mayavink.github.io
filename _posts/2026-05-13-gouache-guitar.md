@@ -5,21 +5,21 @@ description: "Guitar painting with Gouache."
 image: images/2026/guitargouache.jpeg
 ---
 
-My brother made four electric guitars in collaboration with his friend Jenny last year. One for me, one for himself, one for the university and one for his friend, Jenny.
+Last year, my brother collaborated with his friend Jenny to make four electric guitars. One for me, one for himself, one for the university and one for his friend, Jenny.
 
-When he got the guitar home, I was inspired by how well he made the guitar. The guitar played really well and  felt just like a real electric guitar. I have wanted to learn the elctric guitar for a long time but I didnt have one. This guitar is perferct to learn the basics and my favorite songs .
+When he brought the guitar home, I was inspired by how well he had made it. The guitar played really well and  felt just like a real electric guitar. I have wanted to learn the electric guitar for a long time but I didn't have one. This guitar is perfect to learn the basics and my favorite songs .
 
-My brother has imspried me to do many things, like to love art and to start learning to play the guitar. During our trip to Japan, he bought an acrylic gouache paint set. I hadnt heard of it before he had got it, but it looked very interesting. He started using it and sent us pictures of the paintings her would make wiht it . The paintings looked great, and he seemed to really like his acrylic gouache set too. Seeing this I too wanted to try using acrylic gouache to paint.
+My brother has inspired me to do many things, like loving art and starting to learn to play the guitar. During our trip to Japan, he bought an acrylic gouache paint set. I hadn't heard of it before he got it, but it looked very interesting. He started using it and sent us pictures of the paintings he would make with it. The paintings looked great, and he seemed to really like his acrylic gouache set too. Seeing this I too wanted to try using acrylic gouache to paint.
 
-This thought had slipped my mind, that is until this summer my brother came back from his exchange program with his acrylic gouache paint set. This was the perfect chance for me to learn somehting about it. 
+This thought had slipped my mind until this summer when my brother came back from his exchange program with his acrylic gouache paint set. This was the perfect chance for me to learn something about it. 
 
-I wanted my first acrylic gouache painting to be somehting personal to me, and as I was scrolling throguh pciture references , I founs this cool picture of the guitar my brother made. It was the perfect picture for my first acrylic gouache painting since there was only one subject and a lot of details that i can learn to paint. 
+I wanted my first acrylic gouache painting to be something personal to me. As I was scrolling through picture references, I found this cool picture of the guitar my brother made. It was the perfect picture for my first acrylic gouache painting since there was only one subject and many details that I can learn to paint. 
 
-![fourguitars](/images/2026/fourguitars.jpg)
+![fourguitars](images/2026/fourguitars.jpg)
 
 Here is the picture of the guitar that I drew.
 
-![guitar](/images/2026/guitar.webp)
+![guitar](images/2026/guitar.webp)
 
 After watching a few videos and learning a bit more about this type of paint, I started my painting. 
 
