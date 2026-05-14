@@ -5,7 +5,7 @@ description: "Guitar painting with Gouache."
 image: images/2026/snapvcc-shirt.jpg
 ---
 
-![guitar gouache](images/2026/guitar gouache.jpeg)
+![guitargouache](images/2026/guitar gouache.jpeg)
 
 My brother made 4 electric guitars in collaberation with his friend Jenny last year. He made one for me, he kept one for himself , oen was for the university and the other for his friend Jenny.
 
